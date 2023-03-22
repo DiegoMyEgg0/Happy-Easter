@@ -1,0 +1,101 @@
+body {
+    background-image: url(images/EasterBKG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rules {
+    background-image: url(images/wornWhite.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rulesWords {
+    font-size: larger;
+    text-align: center;
+    text-shadow:
+   -1px -1px 0 #ffffff,  
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+     1px 1px 0 #ffffff;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    visibility: hidden;
+    width: 0;
+    border-width: 10px;
+    border-top-style:dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #FEC8C3;
+
+}
+
+.pink {
+    height: 200px;
+    width: 150px;
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.purple {
+    height: 200px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: 400px;
+}
+
+
+.yellow {
+    height: 200px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topEggs {
+    display: flex;
+    width: 100%;
+}
+
+.bottomHri {
+    width: 30%;
+    border-width: 30px;
+    border-top-style:dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #FCF6BD;
+}
+
+.bottomHrii {
+    width: 50%;
+    border-width: 35px;
+    border-top-style:dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #A9DEF9;
+}
+
+.bottomHriii {
+    width: 80%;
+    border-width: 40px;
+    border-top-style:dotted;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-color: #FF99C8;
+}
