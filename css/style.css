@@ -56,7 +56,7 @@ hr {
 .pink {
     height: 200px;
     width: 150px;
-    margin-left: 200px;
+    margin-left: 300px;
     margin-right: auto;
 }
 
@@ -64,14 +64,14 @@ hr {
     height: 200px;
     width: 150px;
     margin-left: auto;
-    margin-right: 400px;
+    margin-right: 600px;
 }
 
 
 .yellow {
     height: 200px;
     width: 150px;
-    margin-left: 100px;
+    margin-left: 148px;
     margin-right: auto;
 }
 
@@ -118,7 +118,7 @@ hr {
 
 .hintOne {
     margin-top: 0;
-    margin-left: 435px;
+    margin-left: 635px;
     margin-right: auto;
     color: #ffffff;
     font-size: 25px;
@@ -132,7 +132,7 @@ hr {
 .hintThree {
     margin-top: 0;
     margin-left: auto;
-    margin-right: 435px;
+    margin-right: 635px;
     color: #ffffff;
     font-size: 25px;
     text-shadow:
